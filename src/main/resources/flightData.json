@@ -1,0 +1,76 @@
+{
+	"pune": [{
+	
+			"bangalore": [{
+				"flightNo": 9879,
+				"airplaneName": "JET",
+				"deptTIme": "00:30",
+				"arrivalTIme": "13:00",
+				"duration": "00:30",
+				"totalStops": 1,
+				"price": 1200,
+				"totalResults": 8
+			}],
+			"delhi": [{
+				
+				"flightNo": 4367,
+				"airplaneName": "JET",
+				"deptTIme": "03:30",
+				"arrivalTIme": "06:30",
+				"duration": "03:00",
+				"totalStops": 1,
+				"price": 2200,
+				"totalResults": 5
+			}]
+		}
+	],
+	
+	
+	
+	"Mumbai": [
+		{
+			"bangalore": [{
+				"destCity": "bangalore",
+				"flightNo": 1234,
+				"airplaneName": "JET",
+				"deptTIme": "02:30",
+				"arrivalTIme": "05:30",
+				"duration": "03:00",
+				"totalStops": 1,
+				"price": 1500,
+				"totalResults": 4
+			}],
+			"kolkata": [{
+				"flightNo": 2132,
+				"airplaneName": "KINGFISHER",
+				"deptTIme": "11:30",
+				"arrivalTIme": "14:15",
+				"duration": "02:45",
+				"totalStops": 1,
+				"price": 2100,
+				"totalResults": 2
+			}],
+			"hyderabad": [{
+				"destCity": "Mumbai",
+				"flightNo": 9879,
+				"airplaneName": "JET",
+				"deptTIme": "00:30",
+				"arrivalTIme": "13:00",
+				"duration": "00:30",
+				"totalStops": 1,
+				"price": 1200,
+				"totalResults": 8
+			}],
+			"delhi": [{
+				"destCity": "Delhi",
+				"flightNo": 4367,
+				"airplaneName": "JET",
+				"deptTIme": "03:30",
+				"arrivalTIme": "06:30",
+				"duration": "03:00",
+				"totalStops": 1,
+				"price": 2200,
+				"totalResults": 5
+			}]
+		}]
+}
